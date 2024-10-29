@@ -2,7 +2,7 @@
 My passions include computer science, UX/UI design, [photography](https://liamwalker.me/photography/), and [videography](https://liamwalker.me/videos/), [robotics](https://liamwalker.me/ftc-robotics/), technology, and coding. I love exploring the latest developments in these fields, from programming languages to hardware components, and I enjoy building my own gadgets and devices in my spare time. I also loves to capture moments and tell stories through my lens. I feature my “sets” of images on my [Instagram](https://www.instagram.com/liamwalker.me/) account. Each set has a theme and a description and can be viewed on Instagram or [here](https://liamwalker.me/photography/) on my website! When I’m not taking photos, I like to make [videos](https://liamwalker.me/videos/) of my friends, using my skills in videography to create beautiful, cinematic, or funny videos. I find that my passion for photography and videography often intersects with my interest in technology, especially in education. The [Zora 2024](https://liamwalker.me/zora2024/) campaign and [Stove Solutions engineering project](https://liamwalker.me/stovesolutions/) some of my big [educational projects](https://liamwalker.me/educational/) where my love for computers, design, photography, and videography overlap.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liamwalker.me)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@liamwalkerme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamrwalker/)
@@ -39,7 +39,8 @@ My passions include computer science, UX/UI design, [photography](https://liamw
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
----
+
+# Profile Views
 [![](https://visitcount.itsvg.in/api?id=LiamWalkerMe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
