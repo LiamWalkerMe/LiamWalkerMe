@@ -39,8 +39,5 @@ My passions include computer science, UX/UI design, [photography](https://liamw
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=LiamWalkerMe&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
