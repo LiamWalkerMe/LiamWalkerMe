@@ -1,25 +1,28 @@
 # 💫 About Me:
 My passions include computer science, photography, videography, [robotics](https://liamwalker.me/ftc-robotics/), [web & UX/UI design](https://liamwalker.me/website), and coding. I love exploring the latest developments in these fields, from programming concepts to hardware components, and I enjoy building my own gadgets and devices in my spare time. I also love to capture moments and tell stories through my lens. I feature many pictures on my [Instagram](https://instagram.com/liamwalker.me) account. When I’m not taking photos, I like to make videos of my friends, using my skills in videography to create beautiful, cinematic, or funny videos. I find that my passion for photography and videography often intersects with my interest in technology, especially in education. The [Stove Solutions](https://liamwalker.me/stovesolutions/) engineering project and my participation in two years of [FTC robotics](https://liamwalker.me/ftc-robotics/) are some of my big [educational projects](https://liamwalker.me/education/) where my love for computers, design, photography, and videography overlap.
 
-
-
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liamwalker.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamrwalker/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liamwalker@liamwalker.me) 
 
 # 💻 Tech Stack:
 ## 👨🏽‍💻 Programming Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🌐 Web Development:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## 🎮 Game Design
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ## 👨🏾‍🎨 Design Adobe
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -37,9 +40,10 @@ My passions include computer science, photography, videography, [robotics](https
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ## Other Skills
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
+## 📊 Github Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamWalkerMe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
