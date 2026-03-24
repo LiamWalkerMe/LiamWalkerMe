@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:172554,100:1d4ed8&height=220&section=header&text=Liam%20Walker&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Photographer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://yt3.googleusercontent.com/3BLfj4ckBv9ABayfb0lPRszRqyHOxnOvKvQAV3Q6scoP_xO-LakPanRIjbFzmos7Z5qNK2y6=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Liam Walker header" width="100%"/>
 
 <h3>Building thoughtful digital experiences, creative systems, and real-world hardware projects.</h3>
 
