@@ -1,111 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Liam%20Walker&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Photographer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:172554,100:1d4ed8&height=220&section=header&text=Liam%20Walker&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Photographer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9B%A0%EF%B8%8F;Capturing+moments+through+a+lens+%F0%9F%93%B7;Designing+experiences%2C+not+just+interfaces+%E2%9C%A8;FTC+Robotics+%7C+Web+%26+UX%2FUI+%7C+Arduino)](https://git.io/typing-svg)
+<h3>Building thoughtful digital experiences, creative systems, and real-world hardware projects.</h3>
 
-<br/>
+<p>
+  I work at the intersection of engineering, design, and storytelling, from robotics and web apps to photography and product thinking.
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/liamwalker.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liamrwalker/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://liamwalker.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liamwalker@liamwalker.me)
+<p>
+  <a href="https://liamwalker.me">Portfolio</a> •
+  <a href="https://linkedin.com/in/liamrwalker/">LinkedIn</a> •
+  <a href="https://instagram.com/liamwalker.me">Instagram</a> •
+  <a href="mailto:liamwalker@liamwalker.me">Email</a>
+</p>
+
+<p>
+  <a href="https://instagram.com/liamwalker.me"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/liamrwalker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://liamwalker.me"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:liamwalker@liamwalker.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
 ---
 
-## 👤 About Me
+## About
 
-I'm a computer science enthusiast who lives at the crossroads of **technology**, **design**, and **storytelling**. I build everything from robotics systems to full-stack web apps — and when I'm not coding, I'm behind a camera.
+I enjoy building things that feel useful and well-crafted. My work spans frontend development, UX/UI design, robotics, and creative media, and I like projects where technical problem-solving and visual thinking both matter.
 
-- 🤖 Two-time **FTC Robotics** participant — check out my [robotics journey](https://liamwalker.me/ftc-robotics/)
-- 🌐 Passionate about **Web & UX/UI design** — see my [design work](https://liamwalker.me/website)
-- 📷 Photographer & videographer sharing work on [Instagram](https://instagram.com/liamwalker.me)
-- 🔥 Engineering project lead for [Stove Solutions](https://liamwalker.me/stovesolutions/)
-- 🛠️ Love tinkering with hardware: Raspberry Pi, Arduino, Home Automation
-- 🎮 Exploring game design with Godot Engine
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Building</strong><br/>
+      Full-stack web experiences, robotics systems, and hands-on hardware projects with a strong product mindset.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Focused On</strong><br/>
+      Clean interfaces, practical engineering, and work that connects usability with strong visual direction.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Exploring</strong><br/>
+      Game design in Godot, home automation, embedded tinkering, and new ways to blend design with code.
+    </td>
+  </tr>
+</table>
+
+### Highlights
+
+- Two-time FTC Robotics participant with a focus on engineering, programming, and iteration
+- Project lead for [Stove Solutions](https://liamwalker.me/stovesolutions/), tackling real-world kitchen safety
+- Designer and developer behind my [personal website](https://liamwalker.me/website)
+- Photographer and videographer sharing creative work on [Instagram](https://instagram.com/liamwalker.me)
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Work
 
-### 👨🏽‍💻 Languages
-<div>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Stove Solutions](https://liamwalker.me/stovesolutions/) | An engineering project focused on practical kitchen safety problems | Hardware, Product Design |
+| [FTC Robotics](https://liamwalker.me/ftc-robotics/) | Competitive robotics work across design, programming, and build cycles | Java, C++, CAD |
+| [Personal Website](https://liamwalker.me/website) | My portfolio and design-forward web presence | React, UX/UI, Frontend |
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+---
 
-</div>
+## Toolbox
 
-### 🌐 Web & Cloud
-<div>
+### Languages
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Web And Cloud
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+### Design And Creative
 
-### 🎨 Design & Creative
-<div>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+### Hardware And Tools
 
-</div>
-
-### ⚙️ Hardware & Tools
-<div>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiamWalkerMe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamWalkerMe&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LiamWalkerMe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamWalkerMe&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamWalkerMe&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamWalkerMe&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
-
----
-
-## 🏆 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🔥 Stove Solutions](https://liamwalker.me/stovesolutions/) | Engineering project tackling real-world kitchen safety | Hardware, Design |
-| [🤖 FTC Robotics](https://liamwalker.me/ftc-robotics/) | Two seasons of competitive robotics design & programming | Java, C++, CAD |
-| [🌐 Personal Website](https://liamwalker.me/website) | Full portfolio & UX/UI design showcase | React, Web Design |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<sub>Open to building thoughtful products, creative tools, and ambitious side projects.</sub>
 
 </div>
