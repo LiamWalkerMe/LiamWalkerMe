@@ -84,7 +84,3 @@
 ---
 
 <div align="center">
-
-<sub>Open to building thoughtful products, creative tools, and ambitious side projects.</sub>
-
-</div>
