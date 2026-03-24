@@ -82,25 +82,25 @@ I enjoy building things that feel useful and well-crafted. My work spans fronten
 ![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=60A5FA)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0f172a?style=flat-square&logo=mariadb&logoColor=A16207)
-![GitHub%20Pages](https://img.shields.io/badge/GitHub%20Pages-0f172a?style=flat-square&logo=github&logoColor=F8FAFC)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-0f172a?style=flat-square&logo=github&logoColor=F8FAFC)
 
 ### Design And Creative
 
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Framer](https://img.shields.io/badge/Framer-0f172a?style=flat-square&logo=framer&logoColor=F8FAFC)
 ![Canva](https://img.shields.io/badge/Canva-0f172a?style=flat-square&logo=canva&logoColor=06B6D4)
-![Adobe%20CC](https://img.shields.io/badge/Adobe%20CC-0f172a?style=flat-square&logo=adobecreativecloud&logoColor=EF4444)
+![Adobe CC](https://img.shields.io/badge/Adobe%20CC-0f172a?style=flat-square&logo=adobecreativecloud&logoColor=EF4444)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0f172a?style=flat-square&logo=adobephotoshop&logoColor=38BDF8)
 ![Illustrator](https://img.shields.io/badge/Illustrator-0f172a?style=flat-square&logo=adobeillustrator&logoColor=F59E0B)
 ![Lightroom](https://img.shields.io/badge/Lightroom-0f172a?style=flat-square&logo=adobelightroom&logoColor=60A5FA)
-![Premiere%20Pro](https://img.shields.io/badge/Premiere%20Pro-0f172a?style=flat-square&logo=adobepremierepro&logoColor=C084FC)
-![After%20Effects](https://img.shields.io/badge/After%20Effects-0f172a?style=flat-square&logo=adobeaftereffects&logoColor=A78BFA)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-0f172a?style=flat-square&logo=adobepremierepro&logoColor=C084FC)
+![After Effects](https://img.shields.io/badge/After%20Effects-0f172a?style=flat-square&logo=adobeaftereffects&logoColor=A78BFA)
 
 ### Hardware And Tools
 
 ![Arduino](https://img.shields.io/badge/Arduino-0f172a?style=flat-square&logo=arduino&logoColor=2DD4BF)
-![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-0f172a?style=flat-square&logo=raspberrypi&logoColor=E11D48)
-![Home%20Assistant](https://img.shields.io/badge/Home%20Assistant-0f172a?style=flat-square&logo=home-assistant&logoColor=38BDF8)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0f172a?style=flat-square&logo=raspberrypi&logoColor=E11D48)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0f172a?style=flat-square&logo=home-assistant&logoColor=38BDF8)
 ![Godot](https://img.shields.io/badge/Godot-0f172a?style=flat-square&logo=godot-engine&logoColor=60A5FA)
 ![Notion](https://img.shields.io/badge/Notion-0f172a?style=flat-square&logo=notion&logoColor=F8FAFC)
 
