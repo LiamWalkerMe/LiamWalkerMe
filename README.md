@@ -16,10 +16,10 @@
 </p>
 
 <p>
-  <a href="https://instagram.com/liamwalker.me"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/liamrwalker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://liamwalker.me"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:liamwalker@liamwalker.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/liamwalker.me"><img src="https://img.shields.io/badge/Instagram-0f172a?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/liamrwalker/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://liamwalker.me"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=About.me&logoColor=93c5fd" alt="Portfolio"/></a>
+  <a href="mailto:liamwalker@liamwalker.me"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
 
 </div>
@@ -70,39 +70,39 @@ I enjoy building things that feel useful and well-crafted. My work spans fronten
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=flat-square&logo=c%2B%2B&logoColor=60A5FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-0f172a?style=flat-square&logo=assemblyscript&logoColor=F3F4F6)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)
 
 ### Web And Cloud
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=60A5FA)
+![MariaDB](https://img.shields.io/badge/MariaDB-0f172a?style=flat-square&logo=mariadb&logoColor=A16207)
+![GitHub%20Pages](https://img.shields.io/badge/GitHub%20Pages-0f172a?style=flat-square&logo=github&logoColor=F8FAFC)
 
 ### Design And Creative
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=F24E1E)
+![Framer](https://img.shields.io/badge/Framer-0f172a?style=flat-square&logo=framer&logoColor=F8FAFC)
+![Canva](https://img.shields.io/badge/Canva-0f172a?style=flat-square&logo=canva&logoColor=06B6D4)
+![Adobe%20CC](https://img.shields.io/badge/Adobe%20CC-0f172a?style=flat-square&logo=adobecreativecloud&logoColor=EF4444)
+![Photoshop](https://img.shields.io/badge/Photoshop-0f172a?style=flat-square&logo=adobephotoshop&logoColor=38BDF8)
+![Illustrator](https://img.shields.io/badge/Illustrator-0f172a?style=flat-square&logo=adobeillustrator&logoColor=F59E0B)
+![Lightroom](https://img.shields.io/badge/Lightroom-0f172a?style=flat-square&logo=adobelightroom&logoColor=60A5FA)
+![Premiere%20Pro](https://img.shields.io/badge/Premiere%20Pro-0f172a?style=flat-square&logo=adobepremierepro&logoColor=C084FC)
+![After%20Effects](https://img.shields.io/badge/After%20Effects-0f172a?style=flat-square&logo=adobeaftereffects&logoColor=A78BFA)
 
 ### Hardware And Tools
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-0f172a?style=flat-square&logo=arduino&logoColor=2DD4BF)
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-0f172a?style=flat-square&logo=raspberrypi&logoColor=E11D48)
+![Home%20Assistant](https://img.shields.io/badge/Home%20Assistant-0f172a?style=flat-square&logo=home-assistant&logoColor=38BDF8)
+![Godot](https://img.shields.io/badge/Godot-0f172a?style=flat-square&logo=godot-engine&logoColor=60A5FA)
+![Notion](https://img.shields.io/badge/Notion-0f172a?style=flat-square&logo=notion&logoColor=F8FAFC)
 
 ---
 
