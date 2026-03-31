@@ -26,7 +26,7 @@
 | --- | --- | --- |
 | [Personal Website](https://liamwalker.me/website) | My portfolio and design-forward web presence | React, UX/UI, Frontend |
 | [Stove Solutions](https://liamwalker.me/stovesolutions/) | An engineering project focused on practical kitchen safety problems | Hardware, Product Design |
-| [FTC Robotics](https://liamwalker.me/ftc-robotics/) | Competitive robotics work across design, programming, and build cycles | Java, C++, CAD |
+| [FTC Robotics](https://liamwalker.me/2023-24/) | Competitive robotics work across design, programming, and build cycles | Java, C++, CAD |
 
 ---
 
