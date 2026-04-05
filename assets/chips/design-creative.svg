@@ -1,0 +1,16 @@
+<svg width="300" height="110" viewBox="0 0 300 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="designTitle designDesc">
+  <title id="designTitle">Design And Creative</title>
+  <desc id="designDesc">Rounded pill chips for Figma, Framer, Photoshop, Illustrator, Premiere Pro, and After Effects.</desc>
+  <rect x="4" y="4" width="74" height="32" rx="16" fill="#F24E1E" />
+  <rect x="86" y="4" width="82" height="32" rx="16" fill="#000000" />
+  <rect x="176" y="4" width="120" height="32" rx="16" fill="#31A8FF" />
+  <rect x="4" y="40" width="104" height="32" rx="16" fill="#FF9A00" />
+  <rect x="116" y="40" width="124" height="32" rx="16" fill="#9999FF" />
+  <rect x="4" y="76" width="122" height="32" rx="16" fill="#6D28D9" />
+  <text x="41" y="24.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Figma</text>
+  <text x="127" y="24.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Framer</text>
+  <text x="236" y="24.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Photoshop</text>
+  <text x="56" y="60.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Illustrator</text>
+  <text x="178" y="60.5" fill="#111827" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Premiere Pro</text>
+  <text x="65" y="96.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">After Effects</text>
+</svg>

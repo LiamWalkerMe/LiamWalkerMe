@@ -1,0 +1,6 @@
+<svg width="170" height="32" viewBox="0 0 170 32" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="webExpTitle webExpDesc">
+  <title id="webExpTitle">Web Experience</title>
+  <desc id="webExpDesc">Rounded pill chip for web experience.</desc>
+  <rect x="1" y="1" width="168" height="30" rx="15" fill="#0F172A" />
+  <text x="85" y="21.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Web Experience</text>
+</svg>

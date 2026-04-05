@@ -1,0 +1,20 @@
+<svg width="320" height="60" viewBox="0 0 320 60" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="linkedinTitle linkedinDesc">
+  <title id="linkedinTitle">Connect on LinkedIn</title>
+  <desc id="linkedinDesc">Rounded button linking to Liam Walker's LinkedIn profile.</desc>
+  <defs>
+    <linearGradient id="linkedinBg" x1="18" y1="6" x2="302" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A66C2" />
+      <stop offset="1" stop-color="#1D4ED8" />
+    </linearGradient>
+    <filter id="linkedinShadow" x="0" y="0" width="320" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#0A66C2" flood-opacity="0.22" />
+    </filter>
+  </defs>
+  <g filter="url(#linkedinShadow)">
+    <rect x="4" y="4" width="312" height="52" rx="26" fill="url(#linkedinBg)" />
+    <rect x="4.75" y="4.75" width="310.5" height="50.5" rx="25.25" stroke="#93C5FD" stroke-opacity="0.6" stroke-width="1.5" />
+    <circle cx="286" cy="30" r="14" fill="white" fill-opacity="0.14" />
+    <path d="M280 30H292M292 30L287 25M292 30L287 35" stroke="white" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="24" y="36" fill="white" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Connect on LinkedIn</text>
+  </g>
+</svg>
