@@ -1,4 +1,4 @@
-<svg width="300" height="74" viewBox="0 0 300 74" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="languagesTitle languagesDesc">
+<svg width="300" height="76" viewBox="0 0 300 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="languagesTitle languagesDesc">
   <title id="languagesTitle">Languages</title>
   <desc id="languagesDesc">Rounded pill chips for Java, C++, JavaScript, AssemblyScript, and HTML5.</desc>
   <rect x="4" y="4" width="84" height="32" rx="16" fill="#E34F26" />

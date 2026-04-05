@@ -5,7 +5,6 @@
     alt="Liam Walker animated header"
   />
 
-
   <p>
     <a href="https://liamwalker.me" target="_blank" rel="noreferrer">
       <img src="assets/buttons/portfolio.svg" height="60" alt="Visit Portfolio" />
