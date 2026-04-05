@@ -6,11 +6,8 @@
       <stop stop-color="#0A66C2" />
       <stop offset="1" stop-color="#1D4ED8" />
     </linearGradient>
-    <filter id="linkedinShadow" x="0" y="0" width="320" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#0A66C2" flood-opacity="0.22" />
-    </filter>
   </defs>
-  <g filter="url(#linkedinShadow)">
+  <g>
     <rect x="4" y="4" width="312" height="52" rx="26" fill="url(#linkedinBg)" />
     <rect x="4.75" y="4.75" width="310.5" height="50.5" rx="25.25" stroke="#93C5FD" stroke-opacity="0.6" stroke-width="1.5" />
     <circle cx="286" cy="30" r="14" fill="white" fill-opacity="0.14" />

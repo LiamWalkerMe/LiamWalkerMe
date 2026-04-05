@@ -1,14 +1,14 @@
 <svg width="300" height="74" viewBox="0 0 300 74" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="webCloudTitle webCloudDesc">
   <title id="webCloudTitle">Web And Cloud</title>
   <desc id="webCloudDesc">Rounded pill chips for React, AWS, MySQL, MariaDB, and GitHub Pages.</desc>
-  <rect x="4" y="4" width="74" height="32" rx="16" fill="#0F172A" />
-  <rect x="86" y="4" width="62" height="32" rx="16" fill="#FF9900" />
-  <rect x="156" y="4" width="82" height="32" rx="16" fill="#4479A1" />
-  <rect x="4" y="40" width="94" height="32" rx="16" fill="#003545" />
-  <rect x="106" y="40" width="142" height="32" rx="16" fill="#181717" />
-  <text x="41" y="24.5" fill="#61DAFB" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">React</text>
-  <text x="117" y="24.5" fill="#111827" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">AWS</text>
-  <text x="197" y="24.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">MySQL</text>
-  <text x="51" y="60.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">MariaDB</text>
-  <text x="177" y="60.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">GitHub Pages</text>
+  <rect x="71" y="4" width="62" height="32" rx="16" fill="#FF9900" />
+  <rect x="141" y="4" width="88" height="32" rx="16" fill="#003545" />
+  <rect x="4" y="40" width="70" height="32" rx="16" fill="#0F172A" />
+  <rect x="82" y="40" width="78" height="32" rx="16" fill="#4479A1" />
+  <rect x="168" y="40" width="128" height="32" rx="16" fill="#181717" />
+  <text x="102" y="24.5" fill="#111827" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">AWS</text>
+  <text x="185" y="24.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">MariaDB</text>
+  <text x="39" y="60.5" fill="#61DAFB" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">React</text>
+  <text x="121" y="60.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">MySQL</text>
+  <text x="232" y="60.5" fill="#FFFFFF" font-size="13.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">GitHub Pages</text>
 </svg>
