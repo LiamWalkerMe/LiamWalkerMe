@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,45:0f4c81,100:38bdf8&height=260&section=header&text=Liam%20Walker&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=liamwalker.me&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f5e,45:123c93,100:1d4ed8&height=260&section=header&text=Liam%20Walker&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=liamwalker.me&descAlignY=58&descSize=18"
     width="100%"
     alt="Liam Walker animated header"
   />
@@ -83,7 +83,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,45:0f4c81,100:1e3a8a&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,45:123c93,100:0b1f5e&height=120&section=footer"
     width="100%"
     alt="Animated footer wave"
   />
